@@ -1,1 +1,1 @@
-This is jeremyraby's first git project! 
+This is jeremyraby's first git project!
